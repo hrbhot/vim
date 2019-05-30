@@ -1,6 +1,6 @@
 # Installation:
 
-    https://github.com/hrbhot/vim
+   git clone https://github.com/hrbhot/vim ~/.vim§
 ## Create symlinks:
 
     ln -s ~/.vim/vimrc ~/.vimrc
